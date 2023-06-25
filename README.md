@@ -30,12 +30,9 @@
 
 <img width="1673" alt="url" src="https://user-images.githubusercontent.com/2933061/156915748-72371824-580f-4591-a163-b8ee56f5e9ba.png">
 
-[mindmeister.com/map/1466264517](https://t.co/eCjx9IMSAf)
-![image](https://user-images.githubusercontent.com/2933061/205476908-f84d1393-5c2b-49b3-b304-e1627e9ad244.png)
-
 ## Data Engineering
 
-https://dagster.io
+### dagster.io
 
 <img width="367" alt="image" src="https://github.com/nikolaydubina/graph-tools-gallery/assets/2933061/da70a186-3c9e-48d6-a1fd-6305afa3d5b8">
 
@@ -49,3 +46,9 @@ https://dagster.io
 ### draw.io
 
 <img width="1765" alt="Screenshot 2023-06-25 at 17 00 13" src="https://github.com/nikolaydubina/graph-tools-gallery/assets/2933061/2f34ed0d-4ca1-443e-a895-0c9d34109a42">
+
+## Notetaking
+
+### mindmeister.com
+
+![image](https://user-images.githubusercontent.com/2933061/205476908-f84d1393-5c2b-49b3-b304-e1627e9ad244.png)
